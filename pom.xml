@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.yhxbank</groupId>
-	<artifactId>eureka-server</artifactId>
+	<artifactId>ywd-cloud</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 
