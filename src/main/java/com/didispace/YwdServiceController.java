@@ -21,6 +21,6 @@ public class YwdServiceController {
         ServiceInstance instance = client.getLocalServiceInstance();
 
         String urlReq = (", host:" + instance.getHost() + ", service_id:" + instance.getServiceId());
-        return "Hello World"+urlReq;
+        return "Hello World 2223333"+urlReq;
     }
 }
